@@ -1,6 +1,6 @@
 package Two_Sum;
 
-//1 - Two Sum
+//1 - Two Sum - Easy
 
 class Solution {
     public int[] twoSum(int[] nums, int target) {

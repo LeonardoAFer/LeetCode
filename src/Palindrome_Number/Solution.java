@@ -1,6 +1,6 @@
 package Palindrome_Number;
 
-//9 - Palindrome Number
+//9 - Palindrome Number - Easy
 
 class Solution {
     public boolean isPalindrome(int x) {
