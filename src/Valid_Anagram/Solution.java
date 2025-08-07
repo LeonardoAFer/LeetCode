@@ -2,7 +2,7 @@ package Valid_Anagram;
 
 import java.util.HashMap;
 
-//242 - Valid Anagram
+//242 - Valid Anagram - Easy
 
 class Solution {
 
