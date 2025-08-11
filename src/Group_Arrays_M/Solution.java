@@ -1,4 +1,4 @@
-package Group_Arrays;
+package Group_Arrays_M;
 
 import java.util.ArrayList;
 import java.util.Arrays;

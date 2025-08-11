@@ -1,4 +1,4 @@
-package Product_of_array_except_self;
+package Product_of_array_except_self_M;
 
 //238. Product of Array Except Self - Medium
 

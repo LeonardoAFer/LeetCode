@@ -1,4 +1,4 @@
-package Top_K_Frequent_Elements;
+package Top_K_Frequent_Elements_M;
 
 import java.util.ArrayList;
 import java.util.HashMap;

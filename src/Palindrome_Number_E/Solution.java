@@ -1,4 +1,4 @@
-package Palindrome_Number;
+package Palindrome_Number_E;
 
 //9 - Palindrome Number - Easy
 
