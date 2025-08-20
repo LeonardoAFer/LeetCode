@@ -1,4 +1,4 @@
-package Longest_Consecutive_Sequence;
+package Longest_Consecutive_Sequence_M;
 
 import java.util.ArrayList;
 import java.util.Arrays;
