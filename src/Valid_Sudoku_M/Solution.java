@@ -1,4 +1,4 @@
-package Valid_Sudoku;
+package Valid_Sudoku_M;
 
 import java.util.HashMap;
 import java.util.Map;
